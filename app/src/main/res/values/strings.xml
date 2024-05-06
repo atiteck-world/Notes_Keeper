@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes Keeper</string>
+    <string name="keep_it_safe">Keep It Safe</string>
+    <string name="create_account">Create Account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="let_s_get_started">Let\'s get started…</string>
+    <string name="hello">Hello,</string>
+</resources>
